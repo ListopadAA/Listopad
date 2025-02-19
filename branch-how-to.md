@@ -7,3 +7,10 @@ git branch surname
 
 
 git branch surname
+
+
+Запушить ветку в репозиторий 
+
+
+git push --set-upstream origin Munirov
+
